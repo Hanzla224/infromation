@@ -1,9 +1,9 @@
 # Information about me
 
-# Name = Hanzla Amad
+## Name = Hanzla Amad
 
-# Email =Hanzlaamad2424@gmail.com
+## Email =Hanzlaamad2424@gmail.com
 
-# Whatsapp = 03000624224
+## Whatsapp = 03000624224
 
-# Fav song = The Night We Met
+## Fav song = The Night We Met
